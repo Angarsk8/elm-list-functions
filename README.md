@@ -1,6 +1,6 @@
 ## Summary
 
-Implentation of the all the exposed functions in the [List module](http://package.elm-lang.org/packages/elm-lang/core/latest/List) from the [elm programming language](http://elm-lang.org/). This was written from scracth just for learning purposes and fun:
+Custom implementation of all the functions defined in the [List module](http://package.elm-lang.org/packages/elm-lang/core/latest/List) from the [elm programming language](http://elm-lang.org/). This was written from scratch just for learning purposes and fun:
 
 ```elm
 module Fun
